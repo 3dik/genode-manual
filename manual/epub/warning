@@ -1,0 +1,4 @@
+This document is just a HTML prototype of the PDF book <a href="https://genode.org/">Genode Foundations</a>.
+
+This version is not feature-complete and contains various bugs, compare the <a href="https://github.com/nfeske/genode-manual/issues/4">issue on GitHub</a>.
+So if you do not want to deal with these problems, use the original PDF version.
